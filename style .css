@@ -1,0 +1,198 @@
+body{
+    background-color: #943d46;
+    margin-left: 150px;
+    width: 1030px;
+    height: 1000px;
+}
+.navs a{
+    color: white;
+    text-decoration: none;
+}
+.header{
+    color: white;
+}
+.search{
+    float: left;
+    margin-top: -50px;
+    margin-left: 300px;
+}
+.user-logo{
+    float: right;
+    margin-top: -65px;
+    margin-right: 160px;
+}
+.navs{
+    clear: both;
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 15px;
+}
+.main{
+    width: 1000px;
+}
+h3{
+    color: white;
+}
+.basic{
+    width: 490px;
+    float: left;
+    box-sizing: border-box;
+}
+.videos{
+    
+    box-sizing: border-box;
+}
+.videoleft .big{
+    width: 400px;
+    height: 255px;
+    background-color: white;
+    box-sizing: border-box;
+}
+.videoleft .big p{
+    padding-top: 230px;
+    color: red;
+}
+.videoleft .small{
+    width: 195px;
+    height: 130px;
+    background-color: white;
+    box-sizing: border-box;
+}    
+.videoleft .small p{
+    color: red;
+    padding-top: 100px;
+}
+.videoleft .small2{
+    clear: both;
+    width: 191px;
+    height: 130px;
+    background-color: white;
+    float: right;
+    margin-top: -130px;
+    margin-right: 90px;
+    box-sizing: border-box;
+}
+.videoleft .small2 p{
+    color: red;
+    padding-top: 80px;
+}
+.videoright{
+    float: right;
+    margin-right: -150px;
+    margin-top: -415px;
+    box-sizing: border-box;
+}
+
+.videoright .small{
+    width: 200px;
+    height: 120px;
+    background-color: white;
+    margin-left: -25px;
+    box-sizing: border-box;
+}
+.videoright .small p{
+    color: red;
+    padding-top: 95px;
+}
+.videoright .small3{
+    width: 190px;
+    height: 120px;
+    border: 1px solid wheat;
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    box-sizing: border-box;
+    
+}
+.videoright .small3 p{
+    color: white;
+    padding-bottom: 12px;
+    padding-left: 25px;
+}
+.videoright .small3 i{
+    color: white;
+   padding-left: 50px;
+    font-size: 30px;
+}
+.aside{
+    float: left;
+    width: 710px;
+    margin-left: 630px;
+    margin-top: -1370px;
+}
+.aside h3{
+    border-bottom: 1px solid white;
+    width: 400px;
+}
+.photo{
+    border-bottom: 1px solid white;
+    width: 400px;
+}
+.photo .one{
+    width: 60px;
+    height: 50px;
+    background-color: white;
+    box-sizing: border-box;
+}
+.about{
+    float: right;
+    margin-top: -355px;
+    margin-right: 310px;
+}
+.about p{
+    line-height: 2.1;
+    color: white;
+    font-size: 13px;
+}
+.channels{
+    margin-top: 50px; 
+}
+.channelsleft{
+    float: left;
+}
+.channelsright{
+    float: left;
+    margin-left: 15px;
+}
+.channelsleft .first{
+    width: 195px;
+    height: 150px;
+    background-color: white;
+    box-sizing: border-box;
+}
+.channelsright .first{
+    width: 195px;
+    height: 150px;
+    background-color: white;
+    box-sizing: border-box;
+    margin-right: -200px;
+}
+.channelsleft .first p{
+    color: red;
+    padding-top: 120px;
+}
+.channelsright .first p{
+    color: red;
+    padding-top: 120px;
+}
+.footer{
+    margin-top: 80px;
+    border-top: 1px solid white;
+    width: 1000px;
+}
+.icons{
+    color: white;
+    font-size: 24px;
+    margin-top: 12px;
+}
+.links a{
+    margin-top: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.author{
+    color: white;
+    font-size: 20px;
+}
